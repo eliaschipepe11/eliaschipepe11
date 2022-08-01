@@ -1,10 +1,9 @@
-### Hi there 👋
+## Olá! 👋
+#### Seja bemvindo ao meu perfil 
 
+Elias Chipepe é meu nome sou Técnico Médio Profissional em Informática , e  estudante de programação.
+Atualmente Namorando a programação Descktop c# e focado em me tornar um desenvolvedor Web.
 <!--
-**eliaschipepe11/eliaschipepe11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
