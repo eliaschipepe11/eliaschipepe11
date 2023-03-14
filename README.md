@@ -1,8 +1,7 @@
 ## Olá! 👋
 #### Seja bemvindo ao meu perfil 
 
-Elias Chipepe é meu nome sou Técnico Médio Profissional em Informática , e  estudante de programação.
-Atualmente Namorando a programação Descktop c# e focado em me tornar um desenvolvedor Web.
+Elias Chipepe é meu nome sou Técnico Médio Profissional em Informática e estudante de programação.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
