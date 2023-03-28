@@ -1,7 +1,7 @@
 ## Olá! 👋
 #### Seja bemvindo ao meu perfil 
 
-Elias Chipepe é meu nome sou Técnico Médio Profissional em Informática e estudante de programação.
+Elias Chipepe é meu nome sou Técnico Médio em Informática e estudante de programação.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
